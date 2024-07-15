@@ -1,0 +1,16 @@
+1712044792328	geckodriver	INFO	Listening on 127.0.0.1:56144
+1712044795410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile6HR1TM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712044795934	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712044796030	Marionette	INFO	Listening on port 56159
+WebDriver BiDi listening on ws://127.0.0.1:56145
+Read port: 56159
+1712044796402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56145/devtools/browser/1996fed3-5800-4e50-96c3-9243d66a31e6
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1712044800324	Marionette	INFO	Stopped listening on port 56159
+Dynamically enable window occlusion 1
