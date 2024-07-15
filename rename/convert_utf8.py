@@ -36,5 +36,7 @@ def convert_to_utf8(folder_path):
 
 
 # Example usage
-folder_path = 'D:\\cp\\working\\CP-QRCode-API\\src\\CPAPI.Script\\Migrations\\002'
+# folder_path = 'D:\\cp\\working\\CP-QRCode-API\\src\\CPAPI.Script\\Migrations\\002'
+folder_path = 'D:\\cp\\working\\CP-QRCode-API\\src\\CPAPI.Script\\StoreProcedures'
 convert_to_utf8(folder_path)
+
