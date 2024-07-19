@@ -26,3 +26,24 @@ What are the advantages or disadvantages of remote work? Share your opinion and 
 - Example: Tôi từng làm việc trong một nhóm tiếp thị tại một công ty, nhóm chúng tôi chủ yếu làm việc từ xa. Không bị xao lãng ở văn phòng, chúng tôi cảm thấy rất thoải mái và có thể làm việc với sự tập trung mà không bị gián đoạn, cho nên chúng tôi luôn hoàn thành nhiệm vụ hiệu quả và mang lại các chiến dịch tiếp thị thành công.
 
 ## Conclusion: Nhắc lại các ý kiến/ quan điểm / nhận định của bản thân.
+
+# Bài mẫu
+#### Working from home has become increasingly popular in today's professional landscape, offering serveral advantages to both employees and employers. In my opinion, remote work offers significant benefits in term of increased flexibility and work-life balance, as well as enhanced productivity and efficiency.
+
+#### On of the key advantages of working from home is the greater flexibility it provides, allowing for more balanced approach to work and personal life. Working remotely eleminates the need for daily communicating, allowing individual to save time and have more control over their working hours. This flexibility enables employees to better balance their professional responsibilities with personal obligations, such as taking care of family matters or pursuing personal interests. For instance, a remote working parent can adjust their schedule to accomadodate their childrent's needs, attending school events or doctor's appointments without having to take time off work.
+
+#### Another significant advantage of remote work is its profound impact on boosting productivity and efficiency. By eliminating the distractions and interruptions commonly found in traditional office environments, employees can focus more effectively on their tasks. Working remotely allows individuals to create a personalize and comfortable workspace that suits their needs and promotes concentration. Take my personal experience, for example, I used to work in a marketing team that transitions to remote work. Without the distractions of a busy office, team members can work without interruptions, resulting in focused and uninterrupted work sessions. As a result, they can complete tasks more efficiently, meet deadlines promptly, and deliver successful marketing campaigns.
+
+#### Im summary, working remotely presents two primary benifits, which are hightened flexibility and a healtheir balance between work and life, as well as improved productivity and efficiency. It allows individuals to maintain a better work-life balance by providing autonomy over their schedules, while also promoting higher productivity levels through reduced distractions and a conducive work environment.
+
+#### Từ vựng lưu ý trong bài mẫu:
+- flexibility (n): sự linh hoạt
+- productivity (n): năng suất
+- efficiency (n): hiệu suất
+- commuting (n): việc di chuyển từ nơi ở đến nơi làm hoặc ngược lại một cách thường xuyên
+- obligation (n): bổn phận, trách nhiệm
+- adjust (v): điều chỉnh
+- eliminate (v): loại bỏ, loại trừ
+- distraction (n): sự làm xao nhãng
+- interruption (n): sự ngắt quãng
+- promptly (adv): đúng giờ, không chậm trễ
