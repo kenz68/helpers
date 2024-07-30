@@ -66,11 +66,46 @@ type A struct {
 	s string
 }
 
+type orderReq struct {
+	Amount struct {
+		Value    string `json:"value"`
+		Currency string `json:"currency"`
+	} `json:"amount"`
+	Capture      bool `json:"capture"`
+	Confirmation struct {
+		Type      string `json:"type"`
+		ReturnUrl string `json:"return_url"`
+	} `json:"confirmation"`
+	Description string `json:"description"`
+}
+
 func main() {
 	var arr []*A
 	for i := 1; i <= 10; i++ {
 		arr = append(arr, &A{a: i, s: ""})
 	}
 	print(arr)
+
+	Description := "Оплата заказа №72"
+	obj := orderReq{
+		Amount: struct {
+			Value    string `json:"value"`
+			Currency string `json:"currency"`
+		}{
+			Value:    "100.00",
+			Currency: "RUB",
+		},
+		Capture: true,
+		Confirmation: struct {
+			Type      string `json:"type"`
+			ReturnUrl string `json:"return_url"`
+		}{
+			Type:      "redirect",
+			ReturnUrl: "https://au.ru/payment/yookassacb",
+		},
+		Description: Description,
+	}
+
+	print(obj)
 
 }
