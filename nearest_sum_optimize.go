@@ -2,6 +2,8 @@ package main
 
 import (
 	"math"
+	"strings"
+	"time"
 )
 
 func nearestSumOptimized(numbers []int, target int) []int {
@@ -80,32 +82,16 @@ type orderReq struct {
 }
 
 func main() {
-	var arr []*A
-	for i := 1; i <= 10; i++ {
-		arr = append(arr, &A{a: i, s: ""})
-	}
-	print(arr)
+	DateStart := "2024-07-26T00:00:00Z"
+	TimeStart := "10:00"
+	ld := strings.Split(DateStart, "T")
 
-	Description := "Оплата заказа №72"
-	obj := orderReq{
-		Amount: struct {
-			Value    string `json:"value"`
-			Currency string `json:"currency"`
-		}{
-			Value:    "100.00",
-			Currency: "RUB",
-		},
-		Capture: true,
-		Confirmation: struct {
-			Type      string `json:"type"`
-			ReturnUrl string `json:"return_url"`
-		}{
-			Type:      "redirect",
-			ReturnUrl: "https://au.ru/payment/yookassacb",
-		},
-		Description: Description,
+	combinedDateTime := ld[0] + "T" + TimeStart
+	dateTime, err := time.Parse("2006-01-02T15:04", combinedDateTime)
+	if err != nil {
+		println(err)
 	}
-
-	print(obj)
+	println(dateTime.String())
+	println(dateTime.Unix())
 
 }
